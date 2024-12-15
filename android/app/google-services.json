@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097535391938",
+    "project_id": "garbage-separator-90f59",
+    "storage_bucket": "garbage-separator-90f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097535391938:android:61d8f3007dbd77e2a9d35b",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLjsWG4RNz4LODPFLkS8O-xcx6hJWTis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
